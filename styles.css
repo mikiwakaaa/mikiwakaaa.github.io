@@ -1,0 +1,91 @@
+/*
+  @author: Miki Wakaaa
+*/
+
+
+/* ---- ---- ---- BODY */
+body {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 3vh;
+}
+
+/* ---- ---- ---- LINK IMAGE */
+a.linkImage:link {
+  text-decoration: none;
+}
+a.LinkImage:visited {
+  text-decoration: none;
+}
+
+/* ---- ---- ---- TITLE */
+a.title:link {
+  font-size: 200%;
+  font-weight: bold;
+  color: #000000;
+  text-decoration: none;
+  margin: 0;
+}
+a.title:visited {
+  font-size: 200%;
+  font-weight: bold;
+  color: #000000;
+  text-decoration: none;
+  margin: 0;
+}
+
+
+/* ---- ---- ---- LINK SALE */
+a.linkSale:link {
+  font-size: 100%;
+  font-weight: bold;
+  color: black;
+}
+a.linkSale:visited {
+  font-size: 100%;
+  font-weight: bold;
+  color: black;
+}
+
+
+/* ---- ---- ---- PICTURE */
+.picture {
+  border-style: solid;
+  color: black;
+}
+
+
+/* ---- ---- ---- LINK PICTURE */
+a.linkPicture:link {
+  color: black;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+a.linkPicture:visited {
+  color: black;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+/* ---- ---- ---- SOCIAL NETWORK */
+a.socialNetwork:link {
+  color: black;
+  width: 120px;
+  height: 120px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-decoration: underline;
+}
+
+a.socialNetwork:visited {
+  color: black;
+  width: 120px;
+  height: 120px;
+  margin-left: 50px;
+  margin-right: 50px;
+  text-decoration: underline;
+}
+
+/* ---- ---- ---- FOOTER */
+footer {
+  font-size: 50%;
+}
